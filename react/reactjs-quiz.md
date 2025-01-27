@@ -1232,3 +1232,16 @@ add();
  - [ ] Both are identical and can be used interchangeably.
  - [x] Props are read-only and passed from parent to child, while state is local and managed within the component.
  - [ ]  State is used for passing data between components, while props are only used for local data.
+
+What is prop drilling in React?
+ Passing data through multiple nested components that do not need it, just to reach the component that requires it.
+ Passing props from parent to child without context.
+ Using hooks like useState to manage props.
+ The process of avoiding Redux in React applications.
+
+#### Q107.  What is prop drilling in React?
+
+ - [x] Passing data through multiple nested components that do not need it, just to reach the component that requires it.
+ - [ ] Passing props from parent to child without context.
+ - [ ] Using hooks like useState to manage props.
+ - [ ] The process of avoiding Redux in React applications.
