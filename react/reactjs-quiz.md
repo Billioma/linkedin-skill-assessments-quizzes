@@ -1224,3 +1224,11 @@ add();
  - [ ] Avoid using context and hooks
  - [ ] Use class components instead of function components
  - [ ] Always use inline functions and styles
+ 
+
+#### Q107.  What is the difference between state and props in React?
+
+ - [ ] Props can be modified by the component that receives them, while state cannot be modified by the component that owns it.
+ - [ ] Both are identical and can be used interchangeably.
+ - [x] Props are read-only and passed from parent to child, while state is local and managed within the component.
+ - [ ]  State is used for passing data between components, while props are only used for local data.
