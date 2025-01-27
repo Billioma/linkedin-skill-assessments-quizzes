@@ -1224,4 +1224,3 @@ add();
  - [ ] Avoid using context and hooks
  - [ ] Use class components instead of function components
  - [ ] Always use inline functions and styles
-
