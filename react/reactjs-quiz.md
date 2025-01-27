@@ -1216,3 +1216,11 @@ add();
 - [x] to directly access the DOM node
 
 [Reference](https://reactjs.org/docs/refs-and-the-dom.html)
+
+ 
+#### Q106. How do you improve performance in large React applications?
+
+ - [x] Use React.memo, lazy loading, and code splitting
+ - [ ] Avoid using context and hooks
+ - [ ] Use class components instead of function components
+ - [ ] Always use inline functions and styles
