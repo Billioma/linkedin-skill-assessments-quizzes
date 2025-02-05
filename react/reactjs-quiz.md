@@ -1259,3 +1259,10 @@ What is prop drilling in React?
  - [x] Handles side effects in function components
  - [ ] Creates a Redux store
  - [ ] Replaces useState
+ 
+#### Q110.  What is the default behavior of React components?
+
+ - [ ] They are stateless
+ - [ ] They are immutable
+ - [x] They re-render when state or props change
+ - [ ] They only render once
