@@ -1365,3 +1365,11 @@ What is prop drilling in React?
  - [ ] To prevent re-renders
  - [ ] To create a context API
  - [ ] To make API requests
+
+
+#### Q125. What is the correct syntax to pass multiple classes dynamically in React?
+
+ - [ ] className="class1 class2"
+ - [ ] className={[class1, class2]}
+ - [ ] className={class1 + ' ' + class2}
+ - [x] className={classnames(class1, class2)}
