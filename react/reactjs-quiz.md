@@ -1294,3 +1294,10 @@ What is prop drilling in React?
  - [ ] this.updateState()
  - [x] this.setState()
  - [ ] this.changeState()
+
+#### Q115.  What is the main advantage of React's Virtual DOM?
+
+ - [x] It speeds up rendering
+ - [ ] It prevents memory leaks
+ - [ ] It improves network requests
+ - [ ] It removes JavaScript from the browser
