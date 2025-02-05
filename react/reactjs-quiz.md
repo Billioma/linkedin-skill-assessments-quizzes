@@ -1350,3 +1350,11 @@ What is prop drilling in React?
  - [x] Runs after every render
  - [ ] Never runs
  - [ ] Runs before rendering
+
+#### Q123. Which of these is true about React keys?
+
+ - [x] They should always be unique
+ - [ ] They should be sequential numbers
+ - [ ] They should always be UUIDs
+ - [ ] They can be duplicated
+
