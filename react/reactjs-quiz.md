@@ -1315,3 +1315,10 @@ What is prop drilling in React?
  - [ ] To replace Redux
  - [ ] To manage side effects
  - [ ] To update state
+
+#### Q118.  How do you conditionally render a component in React?
+
+ - [ ] Using if-else statements
+ - [ ] Using ternary operators
+ - [ ] Using && operator
+ - [x] All of the above
