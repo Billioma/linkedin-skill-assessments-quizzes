@@ -1381,3 +1381,11 @@ What is prop drilling in React?
  - [ ] A component that always re-renders
  - [ ] A component without any JSX
  - [ ] A component that only uses class-based syntax
+
+
+#### Q127. What is the purpose of useImperativeHandle?
+
+ - [ ] To manage state updates
+ - [x] To customize the instance value that is exposed when using ref
+ - [ ] To prevent re-renders
+ - [ ] To handle API calls
