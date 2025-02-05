@@ -1322,3 +1322,10 @@ What is prop drilling in React?
  - [ ] Using ternary operators
  - [ ] Using && operator
  - [x] All of the above
+
+#### Q119.  What library is commonly used for state management in React?
+
+ - [ ] jQuery
+ - [x] Redux
+ - [ ] Express
+ - [ ] Lodash
