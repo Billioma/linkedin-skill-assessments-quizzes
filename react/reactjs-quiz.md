@@ -1308,3 +1308,10 @@ What is prop drilling in React?
  - [x] onChange
  - [ ] onClick
  - [ ] onInput
+
+#### Q117.  What is the purpose of useMemo?
+
+ - [x] To memoize expensive calculations
+ - [ ] To replace Redux
+ - [ ] To manage side effects
+ - [ ] To update state
