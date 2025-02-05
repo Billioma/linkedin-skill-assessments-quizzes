@@ -1343,3 +1343,10 @@ What is prop drilling in React?
  - [ ] componentWillUnmount
  - [x] componentRender
  - [ ] shouldComponentUpdate
+
+#### Q122. What is the default behavior of useEffect when no dependencies are passed?
+
+ - [ ] Runs once after the initial render
+ - [x] Runs after every render
+ - [ ] Never runs
+ - [ ] Runs before rendering
