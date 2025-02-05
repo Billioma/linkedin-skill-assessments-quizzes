@@ -1301,3 +1301,10 @@ What is prop drilling in React?
  - [ ] It prevents memory leaks
  - [ ] It improves network requests
  - [ ] It removes JavaScript from the browser
+
+#### Q116.  Which React event fires when an input value changes?
+
+ - [ ] onSubmit
+ - [x] onChange
+ - [ ] onClick
+ - [ ] onInput
