@@ -1373,3 +1373,11 @@ What is prop drilling in React?
  - [ ] className={[class1, class2]}
  - [ ] className={class1 + ' ' + class2}
  - [x] className={classnames(class1, class2)}
+
+
+#### Q126. What is a pure component in React?
+
+ - [x] A component that does not re-render if props/state do not change
+ - [ ] A component that always re-renders
+ - [ ] A component without any JSX
+ - [ ] A component that only uses class-based syntax
