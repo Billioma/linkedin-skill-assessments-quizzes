@@ -1336,3 +1336,10 @@ What is prop drilling in React?
  - [ ] It optimizes rendering performance
  - [ ] It prevents re-renders
  - [ ] It disables JavaScript
+
+#### Q121. Which of these is NOT a React lifecycle method?
+
+ - [ ] componentDidMount
+ - [ ] componentWillUnmount
+ - [x] componentRender
+ - [ ] shouldComponentUpdate
