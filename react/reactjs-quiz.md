@@ -1358,3 +1358,10 @@ What is prop drilling in React?
  - [ ] They should always be UUIDs
  - [ ] They can be duplicated
 
+
+#### Q124. What is the purpose of forwardRef in React?
+
+ - [x] To pass a ref from a parent to a child component
+ - [ ] To prevent re-renders
+ - [ ] To create a context API
+ - [ ] To make API requests
