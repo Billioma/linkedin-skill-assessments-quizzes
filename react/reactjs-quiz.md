@@ -1266,10 +1266,17 @@ What is prop drilling in React?
  - [ ] They are immutable
  - [x] They re-render when state or props change
  - [ ] They only render once
- 
+
 #### Q111.  What prop is used to uniquely identify items in a list?
 
  - [ ] id
  - [x] key
  - [ ] index
  - [ ] listKey
+
+#### Q112.  What method is used to create a component in React class components?
+
+ - [x] render()
+ - [ ] createComponent()
+ - [ ] display()
+ - [ ] show()
