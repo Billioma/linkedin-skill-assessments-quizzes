@@ -1329,3 +1329,10 @@ What is prop drilling in React?
  - [x] Redux
  - [ ] Express
  - [ ] Lodash
+
+#### Q120. What does the StrictMode component do?
+
+ - [x] It runs React in strict mode, highlighting potential issues
+ - [ ] It optimizes rendering performance
+ - [ ] It prevents re-renders
+ - [ ] It disables JavaScript
