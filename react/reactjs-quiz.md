@@ -1245,3 +1245,10 @@ What is prop drilling in React?
  - [ ] Passing props from parent to child without context.
  - [ ] Using hooks like useState to manage props.
  - [ ] The process of avoiding Redux in React applications.
+
+#### Q108.  What is React primarily used for?
+
+ - [x] UI development
+ - [ ] Backend development
+ - [ ] Database management
+ - [ ] Server-side scripting
