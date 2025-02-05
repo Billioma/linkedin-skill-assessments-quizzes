@@ -1252,3 +1252,10 @@ What is prop drilling in React?
  - [ ] Backend development
  - [ ] Database management
  - [ ] Server-side scripting
+
+#### Q109.  What does the useEffect hook do?
+
+ - [ ] Manages state updates
+ - [x] Handles side effects in function components
+ - [ ] Creates a Redux store
+ - [ ] Replaces useState
