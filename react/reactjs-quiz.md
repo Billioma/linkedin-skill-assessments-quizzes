@@ -1280,3 +1280,10 @@ What is prop drilling in React?
  - [ ] createComponent()
  - [ ] display()
  - [ ] show()
+ 
+#### Q113.  What is the purpose of React.Fragment?
+
+ - [ ] It prevents re-renders
+ - [x] It allows returning multiple elements without adding extra DOM nodes
+ - [ ] It optimizes performance
+ - [ ] It is used for routing
